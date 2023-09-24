@@ -7,6 +7,9 @@ I pride myself on my ability to translate project requirements into visually app
 Click the link below to open my portfolio.
 <https://annrobles.github.io/>
 
+![preview](https://github.com/annrobles/annrobles.github.io/assets/66763904/8ec6a1de-cebb-46fb-9884-edd87e622ac6)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
