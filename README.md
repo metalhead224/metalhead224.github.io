@@ -7,7 +7,7 @@ I pride myself on my ability to translate project requirements into visually app
 Click the link below to open my portfolio.
 <https://sumanosti.com.np>
 
-I want to give shoutout to Britanny Chiang (<https://brittanychiang.com>) and Annarobles (<https://annrobles.github.io/>)
+I want to give shoutout to Britanny Chiang (<https://brittanychiang.com>) and Annrobles (<https://annrobles.github.io/>)
 
 ![preview](suman's portfolio)
 
