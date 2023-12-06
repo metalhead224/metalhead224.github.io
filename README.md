@@ -1,13 +1,15 @@
-# annrobles.github.io
+# sumanosti.com.np
 
-Results-driven Senior Software Developer base in Toronto Canada with over 5 years of professional experience in web and software development. I have worked on various large-scale projects that prioritized responsive design, performance optimization, and cross-functional collaboration.
+Results-driven Full-stack Web Developer based in Kathmandu, Nepal with over 2 years of professional experience in web and software development. I have worked on various large-scale projects that prioritized responsive design, performance optimization, and cross-functional collaboration.
 
 I pride myself on my ability to translate project requirements into visually appealing and efficient solutions.
 
 Click the link below to open my portfolio.
-<https://annrobles.github.io/>
+<https://sumanosti.com.np>
 
-![preview](https://annrobles.github.io/assets/images/preview.png)
+I want to give shoutout to Britanny Chiang (<https://brittanychiang.com>) and Annarobles (<https://annrobles.github.io/>)
+
+![preview](suman's portfolio)
 
 
 ## Development server
