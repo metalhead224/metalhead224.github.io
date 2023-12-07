@@ -7,12 +7,12 @@
 	"Header.cvBtn": "Resume",
 	"Header.cvName": "FloreceAnn_Robles_Resume.pdf",
 	"Banner.Pretitle": "Hello! My name is",
-	"Banner.Description": "I'm a software engineer with <span class='underline'>over 5 years of experience</span>, specializing in developing systems, interfaces, bots, and technological solutions. I pride myself on my ability to translate project requirements into visually appealing and efficient solutions. Currently, I'm employed at <span class='underline'>RCG Global Services</span>, where I focus on building accessible, human-centered products.",
+	"Banner.Description": "I'm a software engineer with <span class='underline'>over 2 years of experience</span>, specializing in web application and technological solutions. I pride myself on my ability to translate project requirements into visually appealing and efficient solutions. Currently, I'm employed at <span class='underline'>INFICARE Pvt Ltd</span>, where I focus on building accessible, remittance solution.",
 	"Banner.ActionBtn": "Get in touch",
 	"AboutMe.Title": "About me",
 	"AboutMe.Paragraphs": [
-		"Hey there, I'm Florece Ann. I hold a Bachelor's Degree in Computer Science and currently exploring the world of  Mobile App Design and Development. Throughout my career, I've been involved in various large-scale projects, prioritizing responsive design, performance optimization, and cross-functional collaboration. I love turning a project's 'wish list' into something that not only looks great but also performs well.",
-		"On a typical day, you'll find me working hand-in-hand with backend engineers on API integrations, turning designs into actual, clickable things, and squashing bugs with our QA team. I'm all about teamwork, taking ownership of what I do, and always looking for ways to help others grow in their roles, too.",
+		"Hey there, I'm Suman Osti. I hold a Bachelor's Degree in Computer Information System and currently exploring the world of Fullstack Web Development. Throughout my career, I've been involved in various large-scale projects, prioritizing responsive design, performance optimization, and cross-functional collaboration. I love turning a project's 'wish list' into something that not only looks great but also performs well.",
+		"On a typical day, you'll find me working on API development and integrations, turning ideas into actual, reliable things, and squashing bugs with our QA team. I'm all about teamwork, taking ownership of what I do, and always looking for ways to help others grow in their roles, too.",
 		"Some of the technologies that I have trained and worked on include (but are not limited to):"
 	],
 	"AboutMe.conclude": [
@@ -21,47 +21,26 @@
 	"Experience.Title": "Where I've Worked",
 	"Experience.Jobs": [
 		{
-			"Tab": "RCG Global Services",
-			"Title": "Senior Front-end Developer",
-			"Date": "June 2021 - Present",
+			"Tab": "INFICARE Pvt Ltd",
+			"Title": ".Net Developer",
+			"Date": "March 2023 - Present",
 			"Description": [
-				"Revamped and streamlined CSS for Disney Visa card banners by implementing scalable parent-child styles, resulting in an 80% decrease in reported bugs and a 20% increase in efficiency in maintaining and updating 50+ banners",
-				"Programmed new visa card and promotion pages for Disneyland, DisneyCruise, and DisneyWorld, accessed by millions globally",
-				"Implemented web accessibility and mobile responsiveness across different screen sizes",
-				"Performed a code review of pull requests to ensure code is 100% compliant to all standards and style guidelines of the team"
-			]
-		},
-
-		{
-			"Tab": "CoreBridge",
-			"Title": "Senior Front-end Developer",
-			"Date": "January 2019 - June 2021",
-			"Description": [
-				"Led a 5-member team to migrate the old user interface / UI to an MVC design pattern, utilizing modern technologies such as Angular, HTML, CSS, and JavaScript",
-				"Ensured on-time task completion for a critical multiple trade show demo, resulting in the successful onboarding of multiple clients, demonstrating product quality, strong project management and collaboration skills",
-				"Provided technical guidance and leadership, which included facilitating daily scrum meetings, tasking out stories, and mentoring team members",
-				"Conducted bi-annual performance evaluations of 5 team members, providing constructive feedback and guidance, which contributed to individual growth and overall team success"
+				"Developing as well as integrating APIs, working with various other partners from around the globe for integrating APIs to make global remittance easier and accessible",
+				"Revamped admin template and upgrading system to use latest framework and tools.",
+				"Migrated the old user interface / UI to an MVC design pattern, utilizing modern technologies with the help of mostly .Net",
+				"Optimizing system to make it more effective and efficient.",
+				"Increasing efficiency by reducing redundancy as well as decreasing latency in the overall system"
 			]
 		},
 		{
-			"Tab": "CoDev",
-			"Title": "Web Developer",
-			"Date": "January 2015 - January 2019",
+			"Tab": "ZeroLogic Space Pvt Ltd",
+			"Title": "Fullstack web Developer",
+			"Date": "September 2021 - March 2022",
 			"Description": [
-				"Learned Angular within 2-weeks to build new features for a SaaS enterprise software which provides language translation service and  programmed new quality checker application which received a patent",
-				"Individually design, code, test, and deploy client’s Intouch Recovery Program website using PHP, HTML, jQuery, MySQL, and REST APIs",
-				"Expanded solo team to nine members, which brought estimated $324,000 income per year to the Company",
-				"Maintained and fixed production bugs for a Supply Chain Platform with 100M transactions"
-			]
-		},
-		{
-			"Tab": "Dynata",
-			"Title": "PHP Developer",
-			"Date": "July 2009 - January 2015",
-			"Description": [
-				"Programmed market research surveys for phone centers or the web",
-				"Deployed daily at least 2 web or phone survey forms",
-				"Programmed the real-time online reporting tool for the client and project management team"
+				"Developing various system that are required by the client from backend to frontend.",
+				"Used .Net framework for the backend and using ReactJs for the frontend.",
+				"Entity framework ORM was used and we used SqlServer as the database.",
+				"Implemented google's material design philosophy and component for the developement of UI."
 			]
 		}
 	],

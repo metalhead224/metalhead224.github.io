@@ -1,9 +1,7 @@
 import {
 	Component,
 	OnInit,
-	ViewChild,
 	HostListener,
-	AfterViewInit,
 } from "@angular/core";
 import { Router } from "@angular/router";
 import {
@@ -15,10 +13,8 @@ import {
 	animate,
 } from "@angular/animations";
 import { AnalyticsService } from "src/app/services/analytics/analytics.service";
-import { TranslateService } from "@ngx-translate/core";
 import { FormControl } from "@angular/forms";
 import { LanguageService } from "src/app/services/language/language.service";
-import { ThisReceiver } from "@angular/compiler";
 
 @Component({
 	selector: "app-header",
@@ -77,7 +73,7 @@ export class HeaderComponent implements OnInit {
 		this.languageService.translateService
 			.get("Header.cvName")
 			.subscribe((val) => {
-				this.cvName = val;
+				this.cvName = "Suman_resume.pdf";
 				// app url
 				let url = window.location.href;
 
