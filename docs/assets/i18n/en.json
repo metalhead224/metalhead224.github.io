@@ -7,7 +7,7 @@
 	"Header.cvBtn": "Resume",
 	"Header.cvName": "FloreceAnn_Robles_Resume.pdf",
 	"Banner.Pretitle": "Hello! My name is",
-	"Banner.Description": "I'm a software engineer with <span class='underline'>over 2 years of experience</span>, specializing in web application and technological solutions. I pride myself on my ability to translate project requirements into visually appealing and efficient solutions. Currently, I'm employed at <span class='underline'>INFICARE Pvt Ltd/span>, where I focus on building accessible, remittance solution.",
+	"Banner.Description": "I'm a software engineer with <span class='underline'>over 2 years of experience</span>, specializing in web application and technological solutions. I pride myself on my ability to translate project requirements into visually appealing and efficient solutions. Currently, I'm employed at <span class='underline'>INFICARE Pvt Ltd</span>, where I focus on building accessible, remittance solution.",
 	"Banner.ActionBtn": "Get in touch",
 	"AboutMe.Title": "About me",
 	"AboutMe.Paragraphs": [
@@ -27,7 +27,7 @@
 			"Description": [
 				"Developing as well as integrating APIs, working with various other partners from around the globe for integrating APIs to make global remittance easier and accessible",
 				"Revamped admin template and upgrading system to use latest framework and tools.",
-				"team to migrate the old user interface / UI to an MVC design pattern, utilizing modern technologies with the help of mostly .Net",
+				"Migrated the old user interface / UI to an MVC design pattern, utilizing modern technologies with the help of mostly .Net",
 				"Optimizing system to make it more effective and efficient.",
 				"Increasing efficiency by reducing redundancy as well as decreasing latency in the overall system"
 			]
