@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1702034048422,
+  "timestamp": 1702207107616,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -234,7 +234,7 @@
     "/assets/fonts/SFMono/SFMono-SemiboldItalic.woff": "4bb2ddc7da8064698328e123bd3ec673f674a90d",
     "/assets/fonts/SFMono/SFMono-SemiboldItalic.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "/assets/fonts/SFMono/stylesheet.css": "b6c8e6eb227dc3d0ae6b70b6a67930b190533453",
-    "/assets/i18n/en.json": "f426e4df647cd6ce0b23ac941888d5ecee09ba87",
+    "/assets/i18n/en.json": "12d36c20e39c0b5254fffd9fe3587bedeb5c5e2a",
     "/assets/images/bbm/image1.png": "cb467b60616e42482591cf884b3e4198c685598d",
     "/assets/images/bbm/image2.png": "acb83c2b257b09ddb8967db4950ed0399cbefafd",
     "/assets/images/folder.svg": "9b70ce8877c8a727520999b7f6f4756cae8f13b1",
@@ -288,7 +288,7 @@
     "/favicon.ico": "4aaaee69e3871c04d7d7c9d65d07916c6425dbbb",
     "/index.html": "d8220e95392dc18092892b67b13121f618b5ac91",
     "/main.546638dbfebb8316.js": "787dac874f4b51a2cff8ff68521444fc49674c78",
-    "/manifest.webmanifest": "f155d21bc443bcdb56c1b20f1250822e52e82841",
+    "/manifest.webmanifest": "17f232d931b643b55744665e065e607ff9c4c73a",
     "/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/polyfills.d511e68bc50cc180.js": "6c321df5ea5223b61958f36d6b031f55cde2496f",
     "/runtime.7b6c4898a049f65b.js": "12fc435ce3e28c67f6b16c7babe708a16cd2920d",
