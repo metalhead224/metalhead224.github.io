@@ -1,6 +1,5 @@
 import { Component, ElementRef, OnInit, ViewChild } from "@angular/core";
 import { OwlOptions } from "ngx-owl-carousel-o";
-import { AnalyticsService } from "src/app/services/analytics/analytics.service";
 
 @Component({
 	selector: "app-projects",
@@ -21,7 +20,7 @@ export class projectsComponent implements OnInit {
 
 	@ViewChild("imgContainer") imgContainer: ElementRef;
 
-	constructor(public analyticsService: AnalyticsService) {}
+	constructor() {}
 
 	ngOnInit(): void {}
 

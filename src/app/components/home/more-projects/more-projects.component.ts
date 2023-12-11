@@ -1,6 +1,5 @@
 import { Component, OnInit } from "@angular/core";
 import { Router, NavigationEnd } from "@angular/router";
-import { AnalyticsService } from "src/app/services/analytics/analytics.service";
 
 @Component({
 	selector: "app-more-projects",
@@ -9,8 +8,7 @@ import { AnalyticsService } from "src/app/services/analytics/analytics.service";
 })
 export class MoreprojectsComponent implements OnInit {
 	constructor(
-		private router: Router,
-		public analyticsService: AnalyticsService
+		private router: Router
 	) {}
 
 	ngOnInit() {

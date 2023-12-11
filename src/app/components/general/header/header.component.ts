@@ -12,7 +12,6 @@ import {
 	stagger,
 	animate,
 } from "@angular/animations";
-import { AnalyticsService } from "src/app/services/analytics/analytics.service";
 import { FormControl } from "@angular/forms";
 import { LanguageService } from "src/app/services/language/language.service";
 
@@ -44,7 +43,6 @@ export class HeaderComponent implements OnInit {
 
 	constructor(
 		private router: Router,
-		public analyticsService: AnalyticsService,
 		public languageService: LanguageService
 	) {}
 

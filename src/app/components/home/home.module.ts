@@ -10,7 +10,7 @@ import { TestimonialComponent } from "./testimonial/testimonial.component";
 import { JobsComponent } from "./jobs/jobs.component";
 import { MoreprojectsComponent } from "./more-projects/more-projects.component";
 import { projectsComponent } from "./projects/projects.component";
-import { NgbModule, NgbNav, NgbNavModule } from "@ng-bootstrap/ng-bootstrap";
+import { NgbNavModule } from "@ng-bootstrap/ng-bootstrap";
 import { CarouselModule } from "ngx-owl-carousel-o";
 import { TranslateHttpLoader } from "@ngx-translate/http-loader";
 
