@@ -9,7 +9,7 @@ Click the link below to open my portfolio.
 
 I want to give shoutout to Britanny Chiang (<https://brittanychiang.com>) and Annrobles (<https://annrobles.github.io/>)
 
-![preview](suman's portfolio)
+![preview](https://www.metalhead224.github.io/assets/images/preview.jpeg)
 
 
 ## Development server
