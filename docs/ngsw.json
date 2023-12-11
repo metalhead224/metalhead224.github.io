@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1702207107616,
+  "timestamp": 1702285003805,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -124,7 +124,7 @@
         "/assets/images/lingotek/lingotek5.png",
         "/assets/images/lingotek/lingotek6.jpeg",
         "/assets/images/me/florece.jpeg",
-        "/assets/images/preview.png",
+        "/assets/images/preview.jpeg",
         "/assets/images/skinet/pg1.png",
         "/assets/images/skinet/pg10.png",
         "/assets/images/skinet/pg11.png",
@@ -255,7 +255,7 @@
     "/assets/images/lingotek/lingotek5.png": "bf8981c054381c0a133ded345f03136e178ec4d5",
     "/assets/images/lingotek/lingotek6.jpeg": "47652c1c00d900f0bab17a010dfaa6b19513e095",
     "/assets/images/me/florece.jpeg": "b13e37da9a1d279c94582948d7159ba5d619d816",
-    "/assets/images/preview.png": "00edcda381504f364f4de6c64ad2804e00cea451",
+    "/assets/images/preview.jpeg": "1744deac80d88d0e6ec98f134eb07ae0905c3356",
     "/assets/images/skinet/pg1.png": "6938b7a4c0c34951c274f55f03b3e1cf2e85ae30",
     "/assets/images/skinet/pg10.png": "61fc292c480f473f4336623dbfd7a1dfe54ecaf7",
     "/assets/images/skinet/pg11.png": "d451aedc32fb754886cfc2ddae06b2592dc1de9f",
