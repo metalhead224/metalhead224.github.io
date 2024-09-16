@@ -1,150 +1,223 @@
 {
-	"Header.Item1": "About me",
-	"Header.Item2": "Experience",
-	"Header.Item3": "Work",
-	"Header.Item4": "Testimonial",
-	"Header.Item5": "Contact",
-	"Header.cvBtn": "Resume",
-	"Header.cvName": "SumanResume.pdf",
-	"Banner.Pretitle": "Hello! My name is",
-	"Banner.Description": "I'm a software engineer with <span class='underline'>over 2 years of experience</span>, specializing in web application and technological solutions. I pride myself on my ability to translate project requirements into visually appealing and efficient solutions. Currently, I'm employed at <span class='underline'>INFICARE Pvt Ltd</span>, where I focus on building accessible, remittance solution.",
-	"Banner.ActionBtn": "Get in touch",
-	"AboutMe.Title": "About me",
-	"AboutMe.Paragraphs": [
-		"Hey there, I'm Suman Osti. I hold a Bachelor's Degree in Computer Information System and currently exploring the world of Fullstack Web Development. Throughout my career, I've been involved in various large-scale projects, prioritizing responsive design, performance optimization, and cross-functional collaboration. I love turning a project's 'wish list' into something that not only looks great but also performs well.",
-		"On a typical day, you'll find me working on API development and integrations, turning ideas into actual, reliable things, and squashing bugs with our QA team. I'm all about teamwork, taking ownership of what I do, and always looking for ways to help others grow in their roles, too.",
-		"Some of the technologies that I have trained and worked on include (but are not limited to):"
-	],
-	"AboutMe.conclude": [
-		"So that's a bit about me. Can't wait to bring my skills and passion to some more exciting projects!"
-	],
-	"Experience.Title": "Where I've Worked",
-	"Experience.Jobs": [
-		{
-			"Tab": "INFICARE Pvt Ltd",
-			"Title": ".Net Developer",
-			"Date": "March 2023 - Present",
-			"Description": [
-				"Developing as well as integrating APIs, working with various other partners from around the globe for integrating APIs to make global remittance easier and accessible",
-				"Revamped admin template and upgrading system to use latest framework and tools.",
-				"Migrated the old user interface / UI to an MVC design pattern, utilizing modern technologies with the help of mostly .Net",
-				"Optimizing system to make it more effective and efficient.",
-				"Increasing efficiency by reducing redundancy as well as decreasing latency in the overall system"
-			]
-		},
-		{
-			"Tab": "ZeroLogic Space Pvt Ltd",
-			"Title": "Fullstack web Developer",
-			"Date": "September 2021 - March 2022",
-			"Description": [
-				"Developing various system that are required by the client from backend to frontend.",
-				"Used .Net framework for the backend and using ReactJs for the frontend.",
-				"Entity framework ORM was used and we used SqlServer as the database.",
-				"Implemented google's material design philosophy and component for the developement of UI."
-			]
-		}
-	],
-	"FeatureProjects.Title": "Some Things I've Built",
-	"FeatureProjects.Label": "Featured Project",
-	"FeatureProjects.Projects": [
-		{
-			"Title": "E-commerce web app",
-			"Description": "The web application serves as e-commerce platform which enables user to signUp, login. This allows user to browse through the products. Lets them add product to their cart, users can decrease increase or delete product from their cart and they can also pay the amount of their bill from their credit or debit cards. Integration of the stripe paymemnt processor allows for this feature. User can view the status of their product after placing an order.",
-			"imgs": [
-				"assets/images/skinet/pg1.png",
-				"assets/images/skinet/pg2.png",
-				"assets/images/skinet/pg3.png",
-				"assets/images/skinet/pg4.png",
-				"assets/images/skinet/pg5.png",
-				"assets/images/skinet/pg7.png",
-				"assets/images/skinet/pg8.png",
-				"assets/images/skinet/pg9.png"
-			],
-			"demoLink": "https://github.com/metalhead224/",
-			"Technologies": [
-				"HTML/HTML5",
-				"SCSS",
-				"LESS",
-				"Angular",
-				"RxJS",
-				".Net",
-				"Docker",
-				"Fly.io",
-				"Git",
-				"Jira",
-				"Bootstrap",
-				"Bootswatch"
-			]
-		},
-		{
-			"Title": "Guff Gaff - A dating app",
-			"Description": "In guff gaff you can Like a user. This app allows you to upload multiple photos to your profile. It lets you change your profile photo with suitable photo that you like. You can see who ever is online, their profile icon will glow green if they are online. You can chat with other users and it will be visible in real time whether they have read the message you sent or not. You can browse through the photo gallery of the user and see their photos.",
-			"imgs": [
-				"assets/images/guffgaff/pg1.png",
-				"assets/images/guffgaff/pg2.png",
-				"assets/images/guffgaff/pg3.png",
-				"assets/images/guffgaff/pg4.png",
-				"assets/images/guffgaff/pg5.png",
-				"assets/images/guffgaff/pg6.png"
-			],
-			"demoLink": "https://github.com/metalhead224/",
-			"Technologies": [
-				"HTML/HTML5",
-				"CSS/CSS3",
-				"Angular",
-				"C#",
-				".NET",
-				"Entity Framework",
-				"Bootstrap",
-				"Git",
-				"Jira",
-				"Fly.io"
-			]
-		}
-	],
-	"OtherProjects.Title": "Other Noteworthy Projects",
-	"OtherProjects.Projects": [
-		{
-			"Title": "Gmoney trans, South korea",
-			"Description": "While I was working at inficare, it also provides outsourcing facilities and I got the chance to work on a global remittance and payment solution platform. Gmoney allows you to do cross border payments, send money anywhere around the globe.",
-			"ghLink": "https://github.com/metalhead224",
-			"demoLink": "https://gmoneytrans.com/",
-			"Technologies": [".Net","SqlServer" ,"Git" ,"Azure","Jira"]
-		},
-		{
-			"Title": "RemitX",
-			"Description": "This app specializes remittance software solution for institutions around the globe. Feature enrich software that is capable of handling extensive requests and large amount of data. Collectively handles more than aprox. 200,000 transactions per day.",
-			"ghLink": "https://github.com/metalhead224",
-			"demoLink": "https://inficare.com.my/",
-			"Technologies": [".Net","SqlServer" ,"Git" ,"Azure","Jira"]
-		}
-	],
-	"Contact.Pretitle": "What’s Next",
-	"Contact.Title": "Get in touch!",
-	"Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
-	"Contact.Btn": "Say Hello",
-	"Testimonial.Title": "My clients' impressions of me",
-	"Testimonial.Items": [
-		{
-			"Comment": "Collaborating with suman has been a <span class='underline'>game-changer</span>. His coding prowess complements our UI/UX vision flawlessly. Suman not only translates designs into functional code but elevates them with an <span class='underline'>intuitive touch</span>. Their <span class='underline'>dedication</span> to refining user interfaces and <span class='underline'>solving design challenges is commendable</span>. Suman is a reliable partner who <span class='underline'>consistently delivers results beyond expectations</span>. Their ability to grasp design nuances and implement them with technical finesse makes them an <span class='underline'>invaluable asset</span>. I appreciate suman for his collaborative spirit, adaptability, and unwavering commitment to enhancing the user experience. Working together has been both <span class='underline'>enjoyable and productive</span>.",
-			"Name": "Umang shrestha",
-			"Position": "Senior UI/UX designer",
-			"Company": "Vertex special technologies",
-			"img": "assets/images/testimonial/Umang.jpg"
-		},
-		{
-			"Comment": "Collaborating with suman has been a <span class='underline'>transformative experience</span>. As a Team Lead, I appreciate their <span class='underline'>unwavering dedication, exceptional problem-solving skills, and commitment to excellence</span>. Suman consistently <span class='underline'>delivers high-quality code</span>, propelling our projects to success. Their <span class='underline'>ability to adapt to challenges</span> and mentor junior team members showcases true <span class='underline'>leadership</span>. Suman is not just a valuable asset but a driving force behind our team's achievements. I highly recommend him for his <span class='underline'>technical prowess, work ethic, and collaborative spirit.</span>",
-			"Name": "Bhim Mahato",
-			"Position": "Product Engineer",
-			"Company": "Inficare",
-			"img": "assets/images/testimonial/BhimDai.jpg"
-		},
-		{
-			"Comment": "I want to express my gratitude to Suman. His <span class='underline'>coding and problem-solving skills have been vital</span> for our projects. Suman meets <span class='underline'>expectations, delivering top-notch, efficient code that aligns seamlessly</span> with our business goals. His <span class='underline'>commitment, reliability, and proactive attitude make them an invaluable asset</span> to our development team. I'm glad for our collaboration and the <span class='underline'>innovative solutions</span>, suman consistently brings to the table. Here's to more success for his future endeavours, all the best!",
-			"Name": "Zenis Maharjan",
-			"Position": "CEO",
-			"Company": "ZeroLogic Space",
-			"img": "assets/images/testimonial/ZenisDai.jpeg"
-		}
-	]
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Work",
+  "Header.Item4": "Testimonial",
+  "Header.Item5": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "SumanResume.pdf",
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I'm a software engineer with <span class='underline'>over 8 years of experience</span>, specializing in web application and technological solutions based in the <span class='underline'>United States</span>. I pride myself on my ability to translate project requirements into visually appealing and efficient solutions. Currently, I'm employed at <span class='underline'>INFICARE Pvt Ltd</span>, where I focus on building accessible, remittance solution.",
+  "Banner.ActionBtn": "Get in touch",
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "Hey there, I'm Suman Osti. I hold a Bachelor's Degree in Computer Information System and currently exploring the world of Fullstack Web Development. Throughout my career, I've been involved in various large-scale projects, prioritizing responsive design, performance optimization, and cross-functional collaboration. I love turning a project's 'wish list' into something that not only looks great but also performs well.",
+    "On a typical day, you'll find me working on API development and integrations, turning ideas into actual, reliable things, and squashing bugs with our QA team. I'm all about teamwork, taking ownership of what I do, and always looking for ways to help others grow in their roles, too.",
+    "Some of the technologies that I have trained and worked on include (but are not limited to):"
+  ],
+  "AboutMe.conclude": [
+    "So that's a bit about me. Can't wait to bring my skills and passion to some more exciting projects!"
+  ],
+  "Experience.Title": "Where I've Worked",
+  "Experience.Jobs": [
+    {
+      "Tab": "INFICARE Pvt Ltd",
+      "Title": ".Net Developer",
+      "Date": "March 2023 - Present",
+      "Description": [
+        "Worked as a dedicated core developer in Gmoney trans remittance south korean company as inficare provides outsourcing facility.",
+        "Developed Card system for depositing and withdrawing amount using gmoney’s card.",
+        "Integrated complex third party apis for sending money to various countries notably Universal Payment Transfer (UPT), Union Pay, Tenpay, Smart swift, Kasikorn bank, etc. to name a few.",
+        "Developed multi language functionality for selected countries to the users.",
+        "Developed a transportation SDK which will enable gmoney’s user to pay for the transportation using gmoney’s card and app.",
+        "Collaborated with stakeholders to gather and analyze business requirements and translate them into technical solutions.",
+        "Implemented Microservices architecture and provided a skeleton for various other projects to implement such architecture.",
+        "Managed the software development lifecycle, including testing, deployment, and maintenance and led the projects in migrating legacy to recent codebase following the software development best practices.",
+        "Building RestAPIs according to the requirements gathered.",
+        "Designed, developed, and implemented APIs by using frontend tools and frameworks such as ReactJs and Angular as well as vanilla javascript.",
+        "Integrating APIs provided by backend to frontend applications.",
+        "Integrating various third party APIs to have seamless functionality between third party and native softwares."
+      ]
+    },
+    {
+      "Tab": "ZeroLogic Space Pvt Ltd",
+      "Title": "Fullstack Web Developer",
+      "Date": "May 2020 - March 2023",
+      "Description": [
+        "Build several projects, building databases, APIs and designing frontend apps from scratch.",
+        "Closely collaborating with the team to gather requirement according to the demand of the stakeholder.",
+        "Managed the software development lifecycle, including testing, deployment, and maintenance and led the projects in migrating legacy to recent codebase following the software development best practices.",
+        "Building RestAPIs according to the requirements gathered.",
+        "Designed, developed, and implemented APIs by using frontend tools and frameworks.",
+        "Designing the frontend application as blueprint and design provided by the UI/UX designers.",
+        "Integrating APIs provided by backend to frontend applications.",
+        "Developed internal tools for task management that can be used by the project manager.",
+        "Integrating various third party APIs to have seamless functionality between third party and native softwares.",
+        "Design and implement database schemas, queries, and stored procedures using SQL.",
+        "Making real time messaging and notification functionality using signalR.",
+        "Dashboard authorization with Role Based Access system.",
+        "Deployment to the cloud by containerizing the app.",
+        "Responsible for maintaining CI/CD pipelines for the smooth deployment.",
+        "CI/CD pipelines made using github actions.",
+        "Optimized data loading with projection and optimizing database queries.",
+        "Debug and resolve issues reported by users or identified during testing."
+      ]
+    },
+	{
+		"Tab": "Laskar foods Pvt Ltd",
+		"Title": "Fullstack Web Developer",
+		"Date": "April 2015 - April 2020",
+		"Description": [
+			"Development and design done according to the requirements of the stakeholders.",
+			"Architecture planning for the application that can be scaled as per requirement and can handle traffic.",
+			"Building RestAPIs according to the requirements gathered.",
+			"Designed, developed, and implemented APIs by using frontend tools and frameworks such as ReactJs.",
+			"Designing the frontend application as blueprint and design provided by the UI/UX designers.",
+			"Integrating APIs provided by backend to frontend applications.",
+			"Integrating various third party APIs to have seamless functionality between third party and native softwares.",
+			"Design and implement database schemas, queries, and stored procedures using SQL.",
+			"Participate in code reviews to ensure code quality and adherence to best practices.",
+			"Designed different custom dashboards for various user groups based on their business functionalities and needs.",
+			"Containerizing the application using docker and deploying it to the local cloud service provider.",
+			"Identify and resolve performance bottlenecks in applications and databases.",
+			"Participating in the performance optimization of the application in the different layers of application with other developers and tech teams.",
+			"Closely collaborated with other teams such as QA, DevOps ensuring the requirements have been met that are demanded by the stakeholders.",
+			"Optimize application performance by writing efficient code and using appropriate algorithms and data structures.",
+			"Responsible for writing unit tests and integration tests.",
+			"Debug and resolve issues reported by users or identified during testing.",
+			"Write unit tests, integration tests, and end-to-end tests to ensure the reliability of the application using xUnit."
+		]
+	  }
+  ],
+  "FeatureProjects.Title": "Some Things I've Built",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "E-commerce web app",
+      "Description": "The web application serves as e-commerce platform which enables user to signUp, login. This allows user to browse through the products. Lets them add product to their cart, users can decrease increase or delete product from their cart and they can also pay the amount of their bill from their credit or debit cards. Integration of the stripe paymemnt processor allows for this feature. User can view the status of their product after placing an order.",
+      "imgs": [
+        "assets/images/skinet/pg1.png",
+        "assets/images/skinet/pg2.png",
+        "assets/images/skinet/pg3.png",
+        "assets/images/skinet/pg4.png",
+        "assets/images/skinet/pg5.png",
+        "assets/images/skinet/pg7.png",
+        "assets/images/skinet/pg8.png",
+        "assets/images/skinet/pg9.png"
+      ],
+      "demoLink": "https://github.com/metalhead224/",
+      "Technologies": [
+        "HTML/HTML5",
+        "SCSS",
+        "LESS",
+        "Angular",
+        "RxJS",
+        ".Net",
+        "Docker",
+        "Fly.io",
+        "Git",
+        "Jira",
+        "Bootstrap",
+        "Bootswatch"
+      ]
+    },
+    {
+      "Title": "Guff Gaff - A dating app",
+      "Description": "In guff gaff you can Like a user. This app allows you to upload multiple photos to your profile. It lets you change your profile photo with suitable photo that you like. You can see who ever is online, their profile icon will glow green if they are online. You can chat with other users and it will be visible in real time whether they have read the message you sent or not. You can browse through the photo gallery of the user and see their photos.",
+      "imgs": [
+        "assets/images/guffgaff/pg1.png",
+        "assets/images/guffgaff/pg2.png",
+        "assets/images/guffgaff/pg3.png",
+        "assets/images/guffgaff/pg4.png",
+        "assets/images/guffgaff/pg5.png",
+        "assets/images/guffgaff/pg6.png"
+      ],
+      "demoLink": "https://guffgaff1-snowy-water-8605.fly.dev/",
+      "Technologies": [
+        "HTML/HTML5",
+        "CSS/CSS3",
+        "Angular",
+        "C#",
+        ".NET",
+        "Entity Framework",
+        "Bootstrap",
+        "Git",
+        "Jira",
+        "Fly.io"
+      ]
+    },
+    {
+      "Title": "Events Nepal",
+      "Description": "In Events Nepal you can Like a user. This app allows you to post your events to the application. It lets you to upate wether you are attending a certain events or not, it will display all the attendees and the host of the event by having a beautiful ribbon to differentiate. It lets you change your profile photo with suitable photo that you like. You can comment in real time to the events. You can view who have commented publicly in realtime. You can follow or unfollow users, see all the list that you follow or the ones you follow. You can browse through the photo gallery of the user and see their photos.",
+      "imgs": [
+        "assets/images/eventsNepal/e1.png",
+        "assets/images/eventsNepal/e2.png",
+        "assets/images/eventsNepal/e3.png",
+        "assets/images/eventsNepal/e4.png",
+        "assets/images/eventsNepal/e5.png",
+        "assets/images/eventsNepal/e6.png",
+        "assets/images/eventsNepal/e7.png",
+        "assets/images/eventsNepal/e8.png",
+        "assets/images/eventsNepal/e9.png"
+      ],
+      "demoLink": "https://eventsnepal-falling-forest-434.fly.dev/",
+      "Technologies": [
+        "HTML/HTML5",
+        "CSS/CSS3",
+        "Angular",
+        "C#",
+        ".NET",
+        "Entity Framework",
+        "Bootstrap",
+        "Git",
+        "Jira",
+        "Fly.io"
+      ]
+    }
+  ],
+  "OtherProjects.Title": "Other Noteworthy Projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Gmoney trans, South korea",
+      "Description": "While I was working at inficare, it also provides outsourcing facilities and I got the chance to work on a global remittance and payment solution platform. Gmoney allows you to do cross border payments, send money anywhere around the globe.",
+      "ghLink": "https://github.com/metalhead224",
+      "demoLink": "https://gmoneytrans.com/",
+      "Technologies": [".Net", "SqlServer", "Git", "Azure", "Jira"]
+    },
+    {
+      "Title": "RemitX",
+      "Description": "This app specializes remittance software solution for institutions around the globe. Feature enrich software that is capable of handling extensive requests and large amount of data. Collectively handles more than aprox. 200,000 transactions per day.",
+      "ghLink": "https://github.com/metalhead224",
+      "demoLink": "https://inficare.com.my/",
+      "Technologies": [".Net", "SqlServer", "Git", "Azure", "Jira"]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+  "Contact.Btn": "Say Hello",
+  "Testimonial.Title": "My clients' impressions of me",
+  "Testimonial.Items": [
+    {
+      "Comment": "Collaborating with suman has been a <span class='underline'>game-changer</span>. His coding prowess complements our UI/UX vision flawlessly. Suman not only translates designs into functional code but elevates them with an <span class='underline'>intuitive touch</span>. Their <span class='underline'>dedication</span> to refining user interfaces and <span class='underline'>solving design challenges is commendable</span>. Suman is a reliable partner who <span class='underline'>consistently delivers results beyond expectations</span>. Their ability to grasp design nuances and implement them with technical finesse makes them an <span class='underline'>invaluable asset</span>. I appreciate suman for his collaborative spirit, adaptability, and unwavering commitment to enhancing the user experience. Working together has been both <span class='underline'>enjoyable and productive</span>.",
+      "Name": "Umang shrestha",
+      "Position": "Senior UI/UX designer",
+      "Company": "Vertex special technologies",
+      "img": "assets/images/testimonial/Umang.jpg"
+    },
+    {
+      "Comment": "Collaborating with suman has been a <span class='underline'>transformative experience</span>. As a Team Lead, I appreciate their <span class='underline'>unwavering dedication, exceptional problem-solving skills, and commitment to excellence</span>. Suman consistently <span class='underline'>delivers high-quality code</span>, propelling our projects to success. Their <span class='underline'>ability to adapt to challenges</span> and mentor junior team members showcases true <span class='underline'>leadership</span>. Suman is not just a valuable asset but a driving force behind our team's achievements. I highly recommend him for his <span class='underline'>technical prowess, work ethic, and collaborative spirit.</span>",
+      "Name": "Bhim Mahato",
+      "Position": "Product Engineer",
+      "Company": "Inficare",
+      "img": "assets/images/testimonial/BhimDai.jpg"
+    },
+    {
+      "Comment": "I want to express my gratitude to Suman. His <span class='underline'>coding and problem-solving skills have been vital</span> for our projects. Suman meets <span class='underline'>expectations, delivering top-notch, efficient code that aligns seamlessly</span> with our business goals. His <span class='underline'>commitment, reliability, and proactive attitude make them an invaluable asset</span> to our development team. I'm glad for our collaboration and the <span class='underline'>innovative solutions</span>, suman consistently brings to the table. Here's to more success for his future endeavours, all the best!",
+      "Name": "Zenis Maharjan",
+      "Position": "CEO",
+      "Company": "ZeroLogic Space",
+      "img": "assets/images/testimonial/ZenisDai.jpeg"
+    }
+  ]
 }
