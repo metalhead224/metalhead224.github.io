@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1726505722267,
+  "timestamp": 1726505842867,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -231,7 +231,7 @@
     "/assets/fonts/SFMono/SFMono-SemiboldItalic.woff": "4bb2ddc7da8064698328e123bd3ec673f674a90d",
     "/assets/fonts/SFMono/SFMono-SemiboldItalic.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "/assets/fonts/SFMono/stylesheet.css": "9d845bf2b6a9e53e38bfc797758fbe38c2b99470",
-    "/assets/i18n/en.json": "f1cf28537930ba40d69059d73c33f28cf9f4a960",
+    "/assets/i18n/en.json": "fb937b4b4cdc743630b48b5baad25a3880c00e68",
     "/assets/images/eventsNepal/e1.png": "e9d978dfb7c4000fb01a69104c64aed1febb00d0",
     "/assets/images/eventsNepal/e2.png": "26456989a211d716b29ebe6f12f55b7fa683cc49",
     "/assets/images/eventsNepal/e3.png": "ce7e9008eacdcb965af3b00590ea2e99d09fbb1e",
