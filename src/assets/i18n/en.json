@@ -21,9 +21,28 @@
   "Experience.Title": "Where I've Worked",
   "Experience.Jobs": [
     {
+      "Tab": "American Woodmark Corporation",
+      "Title": "Project Leader, System Design and Development",
+      "Date": "March 2023 - Present",
+      "Description": [
+        "Led the design, development, and deployment of software solutions using .NET Core, Angular, VB.NET, and Salesforce.",
+        "Managed end-to-end project lifecycle, from requirement gathering and system design to development and deployment.",
+        "Developed and implemented robust system architectures to meet business and technical requirements.",
+        "Utilized .NET Core to build high-performance backend services and RESTful APIs for various applications.",
+        "Designed and developed frontend components using Angular to deliver dynamic, user-friendly interfaces.",
+        "Integrated Salesforce CRM to streamline customer relationship management and enhance business processes.",
+        "Migrated legacy systems to modern frameworks, optimizing performance and maintainability.",
+        "Led a team of developers, providing guidance on best practices and ensuring timely project delivery.",
+        "Collaborated with stakeholders to translate business needs into technical solutions, ensuring alignment with organizational goals.",
+        "Utilized VB.NET to maintain and enhance legacy systems, ensuring seamless integration with new technologies.",
+        "Managed database design and implementation, optimizing queries and ensuring data integrity.",
+        "Integrating various third party APIs to have seamless functionality between third party and native softwares."
+      ]
+    },
+    {
       "Tab": "INFICARE Pvt Ltd",
       "Title": ".Net Developer",
-      "Date": "March 2023 - Present",
+      "Date": "March 2023 - July 2024",
       "Description": [
         "Worked as a dedicated core developer in Gmoney trans remittance south korean company as inficare provides outsourcing facility.",
         "Developed Card system for depositing and withdrawing amount using gmoney’s card.",
