@@ -7,7 +7,7 @@
   "Header.cvBtn": "Resume",
   "Header.cvName": "SumanResume.pdf",
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I'm a software engineer with <span class='underline'>over 8 years of experience</span>, specializing in web application and technological solutions based in the <span class='underline'>United States</span>. I pride myself on my ability to translate project requirements into visually appealing and efficient solutions. Currently, I'm employed at <span class='underline'>American Woodmark Corporation</span>, where I focus on building application for smooth management and sale of kitchen cabitnets and bathroom design items.",
+  "Banner.Description": "I'm a software engineer with <span class='underline'>over 10 years of experience</span>, specializing in web application and technological solutions based in the <span class='underline'>United States</span>. I pride myself on my ability to translate project requirements into visually appealing and efficient solutions. Currently, I'm employed at <span class='underline'>American Woodmark Corporation</span>, where I focus on building application for smooth management and sale of kitchen cabitnets and bathroom design items.",
   "Banner.ActionBtn": "Get in touch",
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
@@ -23,7 +23,7 @@
     {
       "Tab": "American Woodmark Co.",
       "Title": "Project Leader, System Design and Development",
-      "Date": "March 2023 - Present",
+      "Date": "November 2024 - Present",
       "Description": [
         "Led the design, development, and deployment of software solutions using .NET Core, Angular, VB.NET, and Salesforce.",
         "Managed end-to-end project lifecycle, from requirement gathering and system design to development and deployment.",
@@ -40,28 +40,9 @@
       ]
     },
     {
-      "Tab": "INFICARE Pvt Ltd",
-      "Title": ".Net Developer",
-      "Date": "March 2023 - July 2024",
-      "Description": [
-        "Worked as a dedicated core developer in Gmoney trans remittance south korean company as inficare provides outsourcing facility.",
-        "Developed Card system for depositing and withdrawing amount using gmoney’s card.",
-        "Integrated complex third party apis for sending money to various countries notably Universal Payment Transfer (UPT), Union Pay, Tenpay, Smart swift, Kasikorn bank, etc. to name a few.",
-        "Developed multi language functionality for selected countries to the users.",
-        "Developed a transportation SDK which will enable gmoney’s user to pay for the transportation using gmoney’s card and app.",
-        "Collaborated with stakeholders to gather and analyze business requirements and translate them into technical solutions.",
-        "Implemented Microservices architecture and provided a skeleton for various other projects to implement such architecture.",
-        "Managed the software development lifecycle, including testing, deployment, and maintenance and led the projects in migrating legacy to recent codebase following the software development best practices.",
-        "Building RestAPIs according to the requirements gathered.",
-        "Designed, developed, and implemented APIs by using frontend tools and frameworks such as ReactJs and Angular as well as vanilla javascript.",
-        "Integrating APIs provided by backend to frontend applications.",
-        "Integrating various third party APIs to have seamless functionality between third party and native softwares."
-      ]
-    },
-    {
-      "Tab": "ZeroLogic Space Pvt Ltd",
+      "Tab": "ZeroLogic Space Pvt. Ltd.",
       "Title": "Fullstack Web Developer",
-      "Date": "May 2020 - March 2023",
+      "Date": "May 2021 - July 2024",
       "Description": [
         "Build several projects, building databases, APIs and designing frontend apps from scratch.",
         "Closely collaborating with the team to gather requirement according to the demand of the stakeholder.",
@@ -83,9 +64,9 @@
       ]
     },
 	{
-		"Tab": "Laskar foods Pvt Ltd",
+		"Tab": "EasyLink Remittance (P.) Ltd.",
 		"Title": "Fullstack Web Developer",
-		"Date": "April 2015 - April 2020",
+		"Date": "July 2015 - April 2021",
 		"Description": [
 			"Development and design done according to the requirements of the stakeholders.",
 			"Architecture planning for the application that can be scaled as per requirement and can handle traffic.",
@@ -95,6 +76,7 @@
 			"Integrating APIs provided by backend to frontend applications.",
 			"Integrating various third party APIs to have seamless functionality between third party and native softwares.",
 			"Design and implement database schemas, queries, and stored procedures using SQL.",
+			"Integrated various global 3rd party APIs to ensure smooth remit service.",
 			"Participate in code reviews to ensure code quality and adherence to best practices.",
 			"Designed different custom dashboards for various user groups based on their business functionalities and needs.",
 			"Containerizing the application using docker and deploying it to the local cloud service provider.",
