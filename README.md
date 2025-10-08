@@ -1,6 +1,6 @@
 # sumanosti.com.np
 
-Results-driven Full-stack Web Developer based in Kathmandu, Nepal with over 2 years of professional experience in web and software development. I have worked on various large-scale projects that prioritized responsive design, performance optimization, and cross-functional collaboration.
+Results-driven Full-stack Web Developer based in Virginia, United States with over 10 years of professional experience in web and software development. I have worked on various large-scale projects that prioritized responsive design, performance optimization, and cross-functional collaboration.
 
 I pride myself on my ability to translate project requirements into visually appealing and efficient solutions.
 
